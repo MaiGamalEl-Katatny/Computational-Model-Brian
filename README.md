@@ -4,7 +4,7 @@ understanding Major Depressive Disorder (MDD). This project is based on the mode
 
 The project was implemented and presented at the eigtht edition of the Latin American School on Computational Neuroscience – LASCON VIII held at the University of São Paulo in the city of São Paulo, Brazil (LASCON 2020: http://sisne.org/lascon). Presentation of the project can be found at: https://www.youtube.com/watch?v=piW5kmoQGR4
 
-Project Abstract:
+Project Description and Main Results:
 
 Major Depressive Disorder (MDD) is a common psychiatric disorder worldwide which can lead to
 suicide. It is usually accompanied by negative thoughts, sadness, and lack of energy. Despite being
@@ -22,7 +22,7 @@ activated in response to a cognitive signal because of the hyperactive vACC netw
 types of treatments of MDD which are Selective Serotonin Reuptake Inhibitor (SSRI) and NMDA Receptor Antagonist.
 Our results show that the model was able to reproduce the MDD symptoms caused by glutamate dysfunction. It also 
 showed the success of the two simulated treatments. 
-Afterward, we studied if MDD is somehow related to synchronization in these
+Afterward, we studied if MDD is related to synchronization in these
 networks, since synchronization is a mechanism for neuronal information processing within a brain
 area as well as for communication between different brain areas (Pikovsky, Arkady, et al. 2003). This
 model could help in understanding the dynamics and symptoms of MDD, and it could also help in
